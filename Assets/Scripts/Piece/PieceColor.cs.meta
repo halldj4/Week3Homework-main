@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f4bdf3ec07ea5c245b4a6e4489916407
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spriteRenderer: {instanceID: 0}
+  - blueColor: {fileID: 2707577370330349663, guid: 8a1dc6f85b9a244479ac11b4b0b0897c, type: 3}
+  - redColor: {instanceID: 0}
+  - greenColor: {instanceID: 0}
+  - purpleColor: {instanceID: 0}
+  - goldColor: {instanceID: 0}
+  - greyColor: {instanceID: 0}
+  - brownColor: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
